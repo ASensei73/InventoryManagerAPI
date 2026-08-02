@@ -7,12 +7,11 @@ Desarrollada con **Java + Spring Boot + MySQL**.
 
 ## 🚀 Tecnologías
 
-- Java 17  
+- Java 21
 - Spring Boot  
 - Spring Web  
 - Spring Data JPA  
 - MySQL  
-- Swagger (OpenAPI)
 
 ---
 
@@ -47,12 +46,4 @@ Campos:
 - categoria  
 - stock  
 - precio  
-
----
-
-## 🔧 Cómo ejecutar
-
-1. Crear base de datos `inventory_db` en MySQL  
-2. Configurar `application.properties` con tu usuario y contraseña  
-3. Ejecutar con IntelliJ o:
 
