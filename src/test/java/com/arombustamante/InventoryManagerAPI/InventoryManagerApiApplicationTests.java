@@ -1,0 +1,13 @@
+package com.arombustamante.InventoryManagerAPI;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class InventoryManagerApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
